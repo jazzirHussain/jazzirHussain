@@ -105,7 +105,6 @@ End-to-end mobile app with live camera streaming from job sites, budget tracking
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzirhussain&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
-[![Agency contributions](https://github-readme-stats.vercel.app/api?username=nyonTech&show_icons=true&hide_border=true&title_color=000&count_private=true)](https://github.com/nyonTech)
 ---
 
 ## 🌍 Looking for opportunities in Germany
