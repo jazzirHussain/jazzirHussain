@@ -105,6 +105,11 @@ End-to-end mobile app with live camera streaming from job sites, budget tracking
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzirhussain&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
+## 📂 Work at Nyon (Agency)
+Most production code from 2022–2024 lives at my agency account:
+👉 [github.com/nyonTech](https://github.com/nyonTech)
+Projects there: School ERP, AI Valuation SaaS, IoT Dashboard, Billing Automation
+
 ---
 
 ## 🌍 Looking for opportunities in Germany
